@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
       <nav class="navbar navbar-expand-lg navbar-light   container-fluid ">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="/">
           <img
             src="../images/twentyonestlogo.png"
             alt="logo"
@@ -26,8 +26,8 @@ const Navbar = () => {
 
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">
+            <li class="nav-item ">
+              <a class="nav-link" href="work">
                 Work <span class="sr-only">(current)</span>
               </a>
             </li>

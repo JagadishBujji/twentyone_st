@@ -12,9 +12,9 @@ const Banner = () => {
       </video> */}
 
       <lottie-player
-        src="https://lottie.host/c61164ad-24f1-484c-8686-a31240f70275/LJmkHop3Gv.json"
-        // background="transparent"
-        speed="2"
+        src="https://lottie.host/07d60511-086c-42b5-a2aa-9714f82152e9/4aFYvnOyk6.json"
+        background="transparent"
+        speed="1"
         style={{ width: "100%", height: "100%" }}
         loop
         autoplay

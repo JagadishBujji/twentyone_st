@@ -9,6 +9,14 @@ const Accordion = () => {
                 <span className="circle-desi"></span>
               </span>{" "}
               <h1 className="desi">Design</h1>
+              {/* <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul> */}
             </div>
           </div>
           <div className="col-md-5"></div>
@@ -20,6 +28,14 @@ const Accordion = () => {
                 <span className="circle-desi"></span>
               </span>{" "}
               <h1 className="desi">Digital & Social</h1>
+              {/* <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul> */}
             </div>
           </div>
           <div className="col-md-5"></div>
@@ -31,6 +47,14 @@ const Accordion = () => {
                 <span className="circle-desi"></span>
               </span>{" "}
               <h1 className="desi">Digital & Social</h1>
+              {/* <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul> */}
             </div>
           </div>
           <div className="col-md-5"></div>
@@ -42,6 +66,14 @@ const Accordion = () => {
                 <span className="circle-desi"></span>
               </span>{" "}
               <h1 className="desi">Films & Production</h1>
+              {/* <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul> */}
             </div>
           </div>
           <div className="col-md-5"></div>

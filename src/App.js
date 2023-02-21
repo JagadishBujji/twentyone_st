@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Router from "./routes";
+import "../src/style.css"
 
 function App() {
   return (
