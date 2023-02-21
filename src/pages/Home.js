@@ -1,3 +1,4 @@
+import Accordion from "../components/Accordion";
 import Banner from "../components/Banner";
 import BrandJourney from "../components/BrandJourney";
 import ClientSlider from "../components/ClientSlider";
@@ -17,6 +18,7 @@ const Home = () => {
       <ClientSlider />
       <Content1 />
       <FloatingElement />
+      <Accordion/>
       <Communication />
       <Project />
       <Map />

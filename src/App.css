@@ -643,6 +643,37 @@ body {
   color: #000000;
 }
 
+.circle-desi{
+  width: 30px;
+  height: 30px;
+  background: #ff0000;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  display: block;
+}
+
+.desi{
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  text-align: justify;
+  margin-left: 10px;
+  font-size: 40px;
+  /* margin-top: 5px; */
+}
+
+.dashed{
+  border: 1px dashed #000000;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.de{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 /* footer  */
 
 @media only screen and (max-width: 500px) {
